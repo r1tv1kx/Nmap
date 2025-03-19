@@ -1,4 +1,4 @@
-# Nmap Cheat sheet
+# Nmap Cheat Sheet
 
 Nmap is a powerful open source tool for network discovery and security auditing.
 
